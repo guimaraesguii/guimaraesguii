@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-💻 Estudando Java<br>🎒 Graduando em Sistemas de Informação<br>✉ Fique a vontade para me contatar via email: guifereler@gmail.com
+💻 Estudando Java<br>🎒 Graduando em Sistemas de Informação<br>✍ Perfil dedicado a compartilhar minha trilha atual de estudos em Java<br>✉ Fique a vontade para me contatar via email: guifereler@gmail.com
 
 
 
